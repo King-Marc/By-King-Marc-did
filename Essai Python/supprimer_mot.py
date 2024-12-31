@@ -1,0 +1,10 @@
+f = open('lire.txt', 'r')
+content = f.read()
+content = content.split()
+content.pop(8)
+s = ''
+s = ''.join(content)
+f.close()
+f = open('lire.txt', 'w')
+f.write(s)
+f.close()

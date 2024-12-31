@@ -1,0 +1,5 @@
+Matricule|Nom|Grade|Salaire base|Prime
+12334|Huni|Boss|1000|100
+12345|Dirac|Prof|1200|150
+34928|Armel|Directeur|3000|500
+0934526|REGIS|COORDON Ai|25000|1200
